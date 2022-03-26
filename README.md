@@ -2,10 +2,9 @@
 
 ## A full scale production grade micro services backend application for selling tickets to attend a sports event
 
-# [Stephen Grider] Microservices with Node JS and React [ENG, 2020]
+# Microservices with Node JS and React [ENG, 2020]
 
 # 05. Architecture of Multi-Service Apps
-
     $ npm install -g typescript
 
 <br/>
